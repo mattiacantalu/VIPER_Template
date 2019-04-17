@@ -1,5 +1,4 @@
 import Foundation
-import LegacyServices
 
 class ___VARIABLE_productName:identifier___InteractorInput: ___VARIABLE_productName:identifier___InteractorProtocol {
 
